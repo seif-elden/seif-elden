@@ -10,17 +10,11 @@
 
 ### About Me
 
-I'm a backend-focused full-stack engineer from Cairo, Egypt, with **4+ years** of hands-on experience building and shipping production software. I got into programming through freelancing -- delivering real projects for real clients since 2021 -- and that taught me to care about things that actually matter: **reliability, performance, and getting things done**.
+I break things, fix them, and make sure they never break again -- preferably before 3 AM.
 
-Right now I'm a **Software Engineer at Milango**, where I architect and maintain the backend for a high-traffic community management platform used by major real estate developers in Egypt. The systems I've built handle **5,000+ requests per minute** under peak load using Laravel, PHP-FPM, Nginx, and Redis. I deal daily with load balancing, multi-layer caching, connection pooling, and security hardening (OWASP Top 10 audits, fixing real vulnerabilities -- not just checkboxes).
+I started freelancing at 17, shipped **15+ production apps** before finishing university, and somehow ended up obsessed with making servers go fast. Now I'm a **Software Engineer at Milango**, keeping backend systems alive at **5,000+ req/min** for Egypt's biggest real estate platforms.
 
-Before Milango, I spent years as a **freelance full-stack developer**, shipping **15+ production projects** for clients across e-commerce, legal, and retail. I built everything end-to-end: Django REST APIs with payment integrations, AWS infrastructure (EC2, S3, SSL, SSH), booking systems, admin dashboards -- whatever the business needed. I also worked with a **digital marketing agency in Saudi Arabia**, leading frontend development for 7+ client campaigns.
-
-**Education:** I'm pursuing a **dual degree in Computer Engineering & Software Systems** at Ain Shams University and the University of East London, with a **GPA of 3.84/4.0**. I ranked 8th in my governorate in high school (97.5%).
-
-**What drives me:** I care about building systems that don't break at 3 AM. I think about caching strategies in my free time. I believe the best code is the code you don't have to debug twice. I'm always looking to go deeper into distributed systems, system design, and cloud infrastructure.
-
-**Beyond code:** I speak Arabic (native), English (IELTS 6.5), and German (A2.2). I'm always learning -- whether it's a new architecture pattern, a cloud service, or a spoken language.
+I think in **Laravel, Django, Redis, and AWS**. I speak **Arabic, English, and enough German to order coffee**. Currently finishing a dual degree in Computer Engineering at **Ain Shams x UEL** with a **3.84 GPA** -- because apparently I like pressure.
 
 ---
 
